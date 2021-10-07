@@ -46,3 +46,16 @@ body {
     padding: 20px;
     margin-bottom: 110px;
 }
+code {
+  display: block;
+  text-align: left;
+  white-space: pre-line;
+  
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 2;
+  background-color: #e6d2d2;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
